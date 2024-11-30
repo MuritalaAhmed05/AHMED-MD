@@ -1,0 +1,116 @@
+{
+  "name": "AHMEDMD",
+  "description": "whatsapp user bot",
+  "repository": "https://github.com/DASTAGHIR/PRINCEMD",
+  "logo": "https://qu.ax/igJFS.png",
+  "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
+  "keywords": [
+    "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "ahmedbot"
+  ],
+  "image": "heroku/nodejs",
+  "stack": "container",
+  "env": {
+    "OWNERS": {
+      "description": "put your Number as Owner",
+      "required": true,
+      "value": "2349050507509;Ahmed"
+    },
+    "MODE": {
+      "description": "mode public or private",
+      "required": true,
+      "value": "private"
+    },
+    "PREFIX": {
+      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "required": false,
+      "value": "∆"
+    },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": false,
+      "value": "true"
+    },
+    "ANTI_LINK": {
+      "description": "make true false to ON/OFF antilink",
+      "required": false,
+      "value": "false"
+    },
+    "AUTOREAD": {
+      "description": "make true to auto check users messages",
+      "required": false,
+      "value": "false"
+    },
+    "VIEWONCE": {
+      "description": "make true if wanna get view once message",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_REPLY": {
+      "description": "Status reply true false to on off",
+      "required": false,
+      "value": "false"
+    },
+    "STATUSLIKES": {
+      "description": "Status likes true false to on off",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_MSG": {
+      "description": "Status reply msg",
+      "required": false,
+      "value": "Your Status has been seen by Ahmed bot"
+    },
+    "BOT_NAME": {
+      "description": "put your BOT a name",
+      "required": true,
+      "value": "Ahmed-MD"
+    },
+    "PACK_NAME": {
+      "description": "put your stickers pack name",
+      "required": false,
+      "value": "<Ahmed is a Web Dev/>"
+    },
+    "DL_MSG": {
+      "description": "Video downloader caption",
+      "required": true,
+      "value": "_📥-------- *DOWNLOADED SUCCESSFULLY* --------📥_"
+    },
+    "STATUSVIEW": {
+      "description": "make it true to auto view status",
+      "required": false,
+      "value": "true"
+    },
+    "Status_Saver": {
+      "description": "make it true to auto save your contacts status",
+      "required": false,
+      "value": "false"
+    },
+    "REJECTSCALLS": {
+      "description": "make it true to reject calls",
+      "required": false,
+      "value": "false"
+    },
+    "AutoReaction": {
+      "description": "make it true to react on chats",
+      "required": false,
+      "value": "false"
+    },
+    "SESSION_ID": {
+      "description": "put your session ID here in the box below",
+      "required": true,
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
+}

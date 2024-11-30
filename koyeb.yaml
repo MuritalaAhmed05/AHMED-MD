@@ -1,0 +1,33 @@
+name: ahmedmd
+services:
+  - name: ahmed-md-service
+    type: web
+    ports:
+      - 3000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    env:
+      - OWNERS=2349020507509;AHMED
+      - MODE=public
+      - PREFIX=""
+      - antidelete=false
+      - ANTI_LINK=false
+      - AUTOREAD=false
+      - VIEWONCE=false
+      - STATUS_REPLY=false
+      - STATUSLIKES=true
+      - STATUS_MSG="Your Status has been seen by Ahmed bot"
+      - BOT_NAME=AHMED-MD
+      - PACK_NAME="<Ahmed is a Web Dev/>"
+      - DL_MSG="_📥-------- *DOWNLOADED SUCCESSFULLY* --------📥_"
+      - STATUSVIEW=false
+      - Status_Saver=false
+      - REJECTSCALLS=false
+      - AutoReaction=false
+      - SESSION_ID="" # Add your session ID here
+    regions:
+      - fra
+      - sin
