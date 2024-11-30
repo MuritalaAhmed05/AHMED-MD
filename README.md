@@ -1,43 +1,43 @@
-![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+PRINCE+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
+![AHMED-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+AHMED+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="PRINCE" 
+            alt="AHMED" 
             width="700" 
             height="400" 
-            src="https://i.imgur.com/iI086tX.jpeg" 
+            src="https://files.catbox.moe/jcs7ct.jpeg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝘿𝘼𝙎𝙏𝘼𝙂𝙀𝙀𝙍 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 AHMED 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 </div>
 
 
 
 <div align="center">
-    <a href="https://github.com/DASTAGHIR/PRINCEMD">
-        <img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
+    <a href="https://github.com/MuritalaAhmed05/AHMED-MD">
+        <img title="Author" src="https://img.shields.io/badge/𝐀𝐇𝐌𝐄𝐃%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
     <a href="https://github.com/DASTAGHIR?tab=followers">
         <img title="Followers" src="https://img.shields.io/github/followers/DASTAGHIR?label=Followers&style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/stargazers/">
+    <a href="https://github.com/MuritalaAhmed05/AHMED-MD/stargazers/">
         <img title="Stars" src="https://img.shields.io/github/stars/DASTAGHIR/PRINCEMD?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/network/members">
+    <a href="https://github.com/MuritalaAhmed05/AHMED-MD/network/members">
         <img title="Fork" src="https://img.shields.io/github/forks/DASTAGHIR/PRINCEMD?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/watchers">
+    <a href="https://github.com/MuritalaAhmed05/AHMED-MD/watchers">
         <img title="Watching" src="https://img.shields.io/github/watchers/DASTAGHIR/PRINCEMD?label=Watching&style=social">
     </a>
 </div>
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝐀𝐇𝐌𝐄𝐃-𝑴𝑫-𝑩𝑶𝑻</h1>
 
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -115,7 +115,7 @@
 
 <div align="center">
     <p align="center">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[OWNERS]=923092668108%3B%E2%9D%A3%EF%B8%8FDASTAGEER&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTOREAD]=false&env[VIEWONCE]=false&env[STATUS_REPLY]=false&env[STATUSLIKES]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[BOT_NAME]=PRINCE-MD&env[PACK_NAME]=Princebot%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=_📥--------+*DOWNLOADED+SUCCESSFULLY*+--------📥_&env[STATUSVIEW]=false&env[Status_Saver]=false&env[REJECTSCALLS]=false&env[AutoReaction]=false&env[SESSION_ID]=">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/MuritalaAhmed05/AHMED-MD&branch=main&name=princegds&builder=dockerfile&env[OWNERS]=923092668108%3B%E2%9D%A3%EF%B8%8FDASTAGEER&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTOREAD]=false&env[VIEWONCE]=false&env[STATUS_REPLY]=false&env[STATUSLIKES]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[BOT_NAME]=PRINCE-MD&env[PACK_NAME]=Princebot%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=_📥--------+*DOWNLOADED+SUCCESSFULLY*+--------📥_&env[STATUSVIEW]=false&env[Status_Saver]=false&env[REJECTSCALLS]=false&env[AutoReaction]=false&env[SESSION_ID]=">
             <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
         </a>
     </p>
